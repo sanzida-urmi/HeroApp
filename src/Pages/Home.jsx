@@ -5,6 +5,7 @@ import play from '../assets/playstore.png'
 import { NavLink } from 'react-router';
 import useData from '../hooks/useData';
 import Data from '../Component/Data';
+import logo from '../assets/logo.png';
 
 
 const Home = () => {
@@ -13,12 +14,12 @@ const Home = () => {
 // console.log(featuredata);
 
 if(loading){
-    return {
-        <div>
-        kjhuujkjn,,kkkkkkkkkkk
+    return (
+        <div className='flex justify-center items-center h-screen'>
+            <img className='animate-spin h-50 w-50' src={logo} alt="" />
         </div>
 
-    }
+    )
 }
 
     return (

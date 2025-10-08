@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import useData from '../hooks/useData';
 import Data from '../Component/Data';
 import { NavLink } from 'react-router';
+import logo from '../assets/logo.png';
 
 
 const App = () => {
@@ -20,9 +21,19 @@ const App = () => {
 
             const handleshow = () => {
         setSearch('');
-    };
+        };
 
-    if(loading) return <p>loading....</p>
+
+        if(loading){
+        return (
+            <div className='flex justify-center items-center h-screen'>
+                <img className='animate-spin h-50 w-50' src={logo} alt="" />
+            </div>
+    
+        )
+    }
+
+    
 
     return (
         <div className='py-10 space-y-6'>
