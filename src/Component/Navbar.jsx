@@ -25,9 +25,9 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <NavLink to='/' className="btn btn-ghost text-xl ">
-          <img className='w-10 h-10' src={logo} alt="" />
-          <span className='text-[#9f62f2]'>HERO.IO</span>
+        <NavLink  to='/' className="btn btn-ghost text-xl wrap-anywhere ">
+          <img className='w-10 h-10 wrap-anywhere' src={logo} alt="" />
+          <span className='text-[#9f62f2] wrap-anywhere'>HERO.IO</span>
         </NavLink>
       </div>
       <div className="navbar-center hidden lg:flex">

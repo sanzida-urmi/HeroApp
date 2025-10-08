@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png",
+    "title": "CodeMaster IDE",
+    "companyName": "DevSoft Ltd",
+    "id": 1,
+    "description": "CodeMaster IDE is a fast and intelligent code editor built for modern developers. It supports multiple languages including JavaScript, Python, and PHP. The smart auto-completion feature predicts your next line of code. You can easily debug applications with an integrated terminal. Its lightweight design ensures smooth performance even on low-end PCs. CodeMaster also includes AI-powered error detection for cleaner code. It offers customizable themes, fonts, and keyboard shortcuts. Built-in Git integration helps you manage version control easily. The extension marketplace lets you add tools on the go. It’s perfect for web developers, students, and professionals alike.",
+    "size": 85,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/657639ebfb91510f45654149/67b4c29865f728c0c4daf59d_google-drive-icon-google-product-illustration-free-png.webp",
+    "title": "PhotoFusion",
+    "companyName": "PixelCraft",
+    "id": 2,
+    "description": "PhotoFusion brings advanced AI photo editing to your fingertips. It automatically enhances colors, brightness, and contrast in one tap. The app includes over 200 filters designed by professional artists. Background removal and face retouching tools are lightning-fast. You can merge multiple photos with layer-based editing support. The cloud sync feature saves your projects securely online. Users can share directly to Instagram, Facebook, or Pinterest. AI-based object detection allows precise editing of specific parts. PhotoFusion also supports RAW image processing for professionals. It’s your one-stop app for both casual and advanced photo editing.",
+    "size": 110,
+    "reviews": 840,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "data:image/jpeg;base64,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",
+    "title": "TaskPilot",
+    "companyName": "NextGen Apps",
+    "id": 3,
+    "description": "TaskPilot helps you organize your life with smart task management. Create tasks, deadlines, and reminders with voice or text input. It uses AI to prioritize your work based on urgency and time. You can categorize tasks into projects or custom folders. The clean and minimal UI ensures a distraction-free experience. Sync your tasks across all your devices seamlessly. Collaborate with teammates through shared boards and updates. Get daily summaries and productivity insights automatically. Offline mode ensures you never lose your data while traveling. TaskPilot turns your to-do list into a personal productivity assistant.",
+    "size": 55,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "data:image/jpeg;base64,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",
+    "title": "NoteZen",
+    "companyName": "CloudSync Inc",
+    "id": 4,
+    "description": "NoteZen is a beautifully simple note-taking app designed for productivity. It lets you organize notes with tags and folders. Dark mode ensures comfortable viewing day or night. Notes are automatically saved and synced to the cloud. You can attach images, audio, or files for richer notes. The markdown editor supports formatting and code blocks. Share notes securely with teammates or friends. Offline support allows you to write anywhere without internet. Its search engine instantly finds any word across all notes. NoteZen is perfect for students, professionals, and creative thinkers.",
+    "size": 48,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 220 }
+    ]
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUCCAH/xABMEAABAwMBAwcIBAoHCQEAAAABAAIDBAURBhIhMQcTQVFhcYEiMlKRobHB0SNCk7IUM2Jjc4KSwuHwFiUmNFNyoiQ2Q0RkdIPi8Rf/xAAaAQEAAgMBAAAAAAAAAAAAAAAAAwUCBAYB/8QANxEAAgIAAwQFCwQDAQEAAAAAAAECAwQFERIhMXEiMkFRYRMUFTNCgZGhscHRI1Lh8DRy8WIk/9oADAMBAAIRAxEAPwCmluGwEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQDGcY6UBmbSVD97YX+Ix704k0cPbLhF/A/fwKp/wT6wstiXcHhrl7J5dTTt4wyeDSU2Zdxg65rjFngxvHFpHeMLHRmGjPK81AXoCAIAgCAIAgCAIAgCAIDctdvmudW2np9kHZL3vf5sbBxcewfILGUlFasyhCU5KMeLJVadOGSR0VBEZHNGXSvxw7eruUUJOx7jocPhaqI7+PeZXWapkrxR0kTqiodwZGM/z3rZ2o18TbtnCuG3N7iYWrkye9gfdq3myf+FT+UR3uO72Lx4zTqopLs1WulUfidf8A/NLEG7Jlry70udbn7uF559aabzG59i+H8mtNyX2x34q4VrD0bey74BZrMZ9sUeefyfGKOdVclDXn6G6xu7JqbPxUizCt9etHjxUXxgcyo5Jrk38TLbJR3uYfu/FSLF4J8YNHnlaXxic6fkuvLMkUcMn6Ko+aeUwMu1o926H4HAumjrjbBtVlJVU7fTkZtM/aG72qSOGpt9VYZKuE+rI4VRRzU+9wDm9bd6guw1lXWW4jnXKHE11rmAQBAEAQBAEAQEz0zA2lsb5MHn6yTyj+abwb4u3+AVZir9bNhdhc5bRpHyj7STWerqDE230MQM07sZHE+PUva79lFjNxitufBFk2GyU1lpS2MB8798sxHlOPyHUpd73s5jF4ueJnq+HYjWv2p6CzExyO52ccY2kDHeVBZiIwexFay7kSYTLrcStpbo9/4Iw7lH8rdSx7PeV4vPXvVXzLP0LWlvm/gZ4uUen3c5TNHc/HwXuuMXGlkbyaPZZ8jci5QLc/G1DIM+i5pXjutj1qpL3ETyaz2Zo24ta2h/nOlb3tysHja49ZNe4jeUYlcNGbceqLRJwqsd7SvVjaH7RFLLMUvZOhT1VLWRnmJopmkbwCD7FsQsjLfBmpOqyp9NaEL1hoGCphkrLJC2KoAy+mG5kv+UdB7OBVzg8xa6F+9d/57zYpxOnRnvRS10ovwaXaa0tYTgtP1T1LLGYZUy1j1We3V7D1XA0VpkIQBAEAQBAO5AyxIITBR08B4xRNYe8DeuWd23bKXe2dRRDYqjHuSJjycULZK2ercM803DT1E/yfYt3DdOfI0c2s2alBdv2JZqm6izWSorM4c0bLD2lbd83GHR4lPg6FdcovhxfIgOgbHFqOWoul5BmiY/EcBccEnOS7pPDxUGF6LcV2aavtbLrMcZOmuMat2v0R09eaRt0NmluVsgbSzU4BcyM4a9ucHd0HerGuxxe808BjrZWqub1TKybntVnTIvjJjdlWEJPvMWj8I8FOpdhFJIZeD57wexxC9dFM1pKCfuRE9VwbN633aroJ2PEzxv3SN4jv6wqXHZDXLWeE6E+7sf4PHbr0L1tRZb+lb629UeZAG1MeNsA+dx3jsVFTa5pqS0kuKKTHYTzee7fF8CA8r1gZA8XKnZiOqyJAN2JQM58QD6j1roMJb5fDSplxitUKZeUqcHxRUi0iEIAgCAIAgMtG3bq4GelI0eshYWPSDfgO1FnVcWHuwNy4qE9DqoPsJvydsDbfUHpLx7ld5e9VJ/3gU+cvpwXganK1tusFLEzOJKkbXg0n4LYxPsmGUR1nPl9yJaO1FLY280Iw5hPlNO4OHHwwc+tamtlc3OC114l1icFDFQSb0a4G9qvWc14pDb6Wn2I5iGv2TtF3Zw9ynhbZOW1NbMV82a+GyyGGltN6v6G7pnk7242VN9c5gdvFNG7B/Wd8B61YRvnpu3fX+DVxea7L2Kd/j+CZU+mbHA0NjtVKcDGXR7R9ZyVl5ez9z+JUzxd83rKb+hp3DRNirWEfgYpn4wH07i3Hh5vsUteNug+trzM68ffD2teZXOpdJ1lhkDnHn6R5w2doxg9Th0FXeDxkbujwZbYbFQv3cH3HJipTMwsxvI3KyW9G6q9rcSDk6rnQ3SKEkjLtk9x/iAuRzipV4yF0V109eaNPEw8phJJ+yTzX9K2r0lXhw/FsErd3AtP/AN9aywE3HER8d3xKKh6WI+bXDDiOorJrR6GR+LwBAEAQBAbdmbtXigb6VTEP9YUOIelM+T+h7HrLmvqWpUx52j2rhos6ODJloJuzbaj9KPcF0GWerk/H7FVm71shy+5z+VPfbKH/ALg/dKnxj02feZ5L158vuVsXfUHioIyL5E35N7HHJPJcp2bQhOzECPrdfgPepqdLJ+C+pV5viHXWqovfLjy/kl+p77DYLeaiQB8rjsxRk8T1nsC2bbHHRJatlPg8I8TZpwS4sqqv1te6idzzK9rM7gx+yAO4KDze6e+U37jooYPDQWirXv3nX0/ryujla2rcaiPOCx5347HfNYyWIw62m9qPzI78qotjrWtl/L+8iyWOpLvbd4bNS1DN7TwI7e1btVuulkGc3KNmHt0e6SK1dZXW2+SUDiXBjhsPI85pG4/z0grrsPiFbSrEdZhbldSrUcnSv0WrDH6NTjHiQudzmevkf9mas/U28i19VDOmLsOP+xy/dKiwn+RDmjm6uvHmfMMu6V4/KPvWxPrvmSvizysDwIAgCAIDoacYX6htbR01kX3wtfFvTD2cn9DKHXXNfUtyaLMTnY3ZXCJ7y8hLsJVoluzbJv037oXR5V6l8yuzZ/qx5fc5PKkf6voB+ecf9Klxz3RJsl61nJFa0o23HPSVqbehfQWrLi0VE2KwRFu7ae4n14W9gN9Ove2czm0nLFPw0ITyozPlv0VOXHYip2kDo8onJUkvWalllMUsNr3siAjGOGVtVyLSJga0wz4HDipd2pLX1tC1+TmrMtJPATubsvx2nI+AVZhl5Oyda4Lh7zns7rUZxmu0z6tayG7W6owNp7Htd27Jbj7xXT5VJuuceX3/AASZM3KqyHdp9/wV3YX/ANspCOms/fVRm0tHWu6RtyjpVYv/AD9i3tQt5zT90jH16OYD9gr3DvS6D8V9Tlq301/e0+Xqj+8S49N3vW3buslzZPLrM8KMxCAIAgCA7GjW7eq7SP8AqWn1b/gtTHPTC2cmZQ665lycxmzvm/OBq4PXpFspdPQkGkW7Ntl/TH7rV0+U/wCP7zRzN62x5L7nC5UPKpbewcS6Q+xvzWWYPqmxk+7bfL7ldUY2XtPaq+b3F/VLeWzoiqbJbXQZ8qN2cdh/iFY5bYnU49xzucVONyn3nE5TbS95gusTC5rG81PjfgZy13dvI9S2bk09omyjELfS+aIABg4KVzLxGCZm1UAAb8b1NKwkg+kWtyeW59LbpamUFvPlobn0R0+0rWwycpStfb9jnM6vjO1Vr2fqzR5Qa1jLnQQA+XFG57t/DaIH7q6PKXpte77m1kcGoTk+1r5f9INp/fqcPJ4ztOf1wqbN304/7FhZH9OfJl017du21LPShePW0rOD0kuaONj1kfLNSMVEv+c+9b13rZc2bNnXlzMajMAgCAIAgO9oNu1rC1jqlJ9THFaeYf4s+RlDrou/msaTD8cZsrhPEsk/1jqaYGzbn9sp9wXU5Uv/AJvezSzF/qrkvuR7lK3m2j9KfuLDMnvj7zbynq2e77kC5gsdu4Hgq7a1LiMtGd2wXeS21TJmeUBuez0mnj4/JKLXRapLge4rDxxVWy+PYWbS1FLcqMSxFk0EowQd438QR8F0cJxsjtLemcjZXOizZluaIpc+T2inldJb6l9JtHPNlvOMHdvBx2ZUbp/ayzpziyK0sjr8jzZ+Tyjo5+er6p1Y4HOyGbDT37yVj5vtPpvcZW5zNx2ao7PjxJRca6ktFC6pqnCKGMYDRuz1ADrU0pKCKymqy+zZjvZTFyus10uk9dOMOlduaD5reAHgFaYOXk46Pidjh6Y01quPBDTw/rVj/wAsHPiqnNXq1/sj2xaVPky7ZhtU0g62H3KZdY4hcT5YrhirlH5WVv3eslzNu71suZgUZEEAQBAEBINAf73UB6RzmPs3LRzN6YSZJUv1Il7St/sdFjhtZ9pXEPqrmbkfXm3pp4NHIzpD9r1gfJdNlMtcPp3M18xXTi/A5HKHTF9JR1ABxE9zXdzgMfdTM4dCMiXK56OcO/R/D/pCWMD2kO61St6Mt9TDJA+M5b0cMLJTTJoWaGa3XqstcxlppTG76w4td3hT1WWVPoMyuppxMdmxElpuUMtaBU0LHnrjkLfYQVZQx8n1olXPJY+xZ8V/IqeUF5YfwW3AE8DJIT7AAs/Opy6sdOZ5DJoJ9OevJEOvFzrrxPztfM5+PNYNzW9wU1fHak9WWlNFdMdmtaHOczAVhXM2InQ01C6W5RMZxdK0e3eqzHz25xgu89xElClt9zLnneI6aR79zWxkknqAW6uJwi3tHyzcP75L3j3Bb1u+bN3EeulzNdYEIQBAEAQHc0PLzWrbY49Mpb62kfFaeYrXCz5GdT/UiX836XR4A4tznwK4Z9RG5wvOZp64tpq5kUrsMnHN7R4AjzT8Fa5Veq7Nh8GTYyl206rjHf7u0lFfRw19JLSzjMcjcZ6R2jxXQ2Vxsi4vtKaqyVU1OPYVjdLbU2qqMNS07z5DwNzx1j5Lm76J0y2ZHR1Wwuhtw/4YA4FazRKjHLG143gHvC9jJoki2ar42t4AepTQm0TJmItC3K7DLQxuaFuQme6Hgs6cd3ath3xrWrZJCOrJ5oXTr6civqmbO76JruJzxcQocPCVk/LT9xR5vj1JeRrfP8HR5QLmy3adqIyfpasGFg7CPKPgPeFa0R1sRWZfQ7bl3LefPVwOaybHWB7Ap5PWTYxL/WlzNdeEIQBAEAQGahqHUlbT1TPOglbKO9pB+CwshtwcX27hrpvL+tl6hksFRCHZEw5yBw4FrgCuAthKuTrl2MstnalGaOJKQ4Fp3DsXq47jcrnsvVEp07qNs4ZRXGQMqBujlJ3S/I+9dHgscrFsT4ldjMBprbT1e1d38HfqaaCrhMNTCyWM/Ve3IVhKMZrSS1RWwslXLai9GcR+kLU5xMYmj38Gybh6wVpvLqH2fM3o5nelv0fu/B5/ofbfTqD+uPksfRlHiZelbu5Hk6NtR4/hB/X/AIL30dQu899L4juXwPz+hdn9Gf7X+CyWBpXf8R6XxPh8B/Quy/4c/wBos1ha/H5j0vivD4G3RactFDIJIaUF7eD5HF2PXuWccNXF66a895DbmOJtWzKW7wNq63OktVI6prphGwcB9Zx6gOkqWUkuJrU0zulswRTWq75Neq11XP8ARxNaWxRZ/Fs+Z4lS1S0Wp01NMMJVprzZAJX7cr3+k4lbJzspbUnLvPKHgQBAEAQBATLReoBC1ttrpA1n/Lvcdw/JPwVDm2Ac/wBavj2/k2sNco9CXAmbjlc8iw1NaUtILXNyD0ELOKJIzcHqmblDqS6W4BsVQJoxwjnBcB3HOfat+rG21rTXVeJHZTh7t846PvW75cDojX9S0Yfa43HrbOQPct1Zl/5NV5dT2WP4fyeHcodQOFpj8aj/ANVkswX7Tz0dT+9/D+TE7lGqx5tphH/nJ+C98/8AA99HU/vfw/kxO5Sa4cLZT/aOKefPuMvR1P7n8EYHcpN0PmW6lz+sfinnj7kZLLae9/IxTa9vs7CGMpKfP1mMJPtJXnnU3wJYZZQt71fvI3cK2ermM9fUvqJuhz3Zx2Dq8FnCWr1N+MYVR0itERm7V4fmGI5GfKIPsVlRB6asqcbi1PoQ4HJWyVoQBAEAQBAEAQHctep66ga2J7hPC3g1/nAdh+arsRllF7cuD8CavEThu4o7cWsqST8dDLGe4EexV08mtXVkmbCxce1M9nVFsP13fZlR+icR/WZedVnh2prb0PP2RWXorEf1jzuvxMbtT0PRk9zCsllN3a0eedw7mYX6ppOAilPaGD5qRZRZ2yQ88iuCMD9TQHzYZf2W/NZrKZfuCxy/b9DC/ULHcIXnvwFnHKtOMjJZg1wia0t8kcMMjx3lTwy6C4sxeY2PgjQnrqifc+QhvUFt10Vw4I1rMRZZ1ma6mIQgCAIAgCAIAgCAIAgPxAfqAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAID/2Q==",
+    "title": "Learnify",
+    "companyName": "EduTech Global",
+    "id": 5,
+    "description": "Learnify is your digital classroom for AI and coding education. It offers interactive courses built by industry experts. The platform adapts to your skill level automatically. You can practice with real coding exercises and quizzes. Live mentor sessions help clarify your doubts instantly. Certificates are awarded after successful course completion. A built-in community forum connects you with learners worldwide. Progress tracking ensures consistent learning growth. Offline lessons allow learning anytime, anywhere. Learnify makes complex tech subjects fun and understandable.",
+    "size": 150,
+    "reviews": 2000,
+    "ratingAvg": 4.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1280 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "FitTrack",
+    "companyName": "WellnessHub",
+    "id": 6,
+    "description": "FitTrack is a modern fitness tracker that motivates your wellness journey. It records your steps, workouts, and calories in real time. You can set daily or weekly fitness goals easily. The AI coach recommends personalized training plans. Sleep tracking helps improve your rest quality. Nutrition tracking allows meal logging and calorie counting. Integrates with smartwatches and wearable devices. Weekly reports summarize your fitness performance. Syncs your data securely to the cloud. FitTrack turns healthy habits into an effortless routine.",
+    "size": 92,
+    "reviews": 1700,
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?7",
+    "title": "MusicWave",
+    "companyName": "Soundify",
+    "id": 7,
+    "description": "MusicWave is a powerful music streaming app powered by AI. It offers millions of songs and podcasts in one place. The app creates playlists based on your mood and habits. You can download tracks for offline listening. Its equalizer gives deep customization for perfect sound. Real-time lyrics display enhances your listening experience. Connect with friends and share favorite playlists easily. AI recommendations help you discover hidden gems. Lightweight design ensures smooth playback even on low bandwidth. MusicWave redefines how you enjoy sound on the go.",
+    "size": 125,
+    "reviews": 2600,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?8",
+    "title": "ShopSmart",
+    "companyName": "EcomLabs",
+    "id": 8,
+    "description": "ShopSmart is your digital shopping assistant for online deals. It automatically compares prices across major e-commerce sites. Coupons and cashback offers are applied automatically at checkout. Personalized product suggestions save you hours of searching. Real-time deal notifications keep you updated. Integrated reviews help you make confident purchase decisions. Track your orders from multiple stores in one place. Save favorite products in custom wishlists. AI learns your style and recommends matching items. ShopSmart ensures smarter, faster, and cheaper online shopping.",
+    "size": 60,
+    "reviews": 1350,
+    "ratingAvg": 4.1,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?9",
+    "title": "SafeNet",
+    "companyName": "CyberSecure",
+    "id": 9,
+    "description": "SafeNet keeps your digital life private and secure. It offers a high-speed VPN with global server coverage. Your browsing data is encrypted end-to-end. It blocks ads, trackers, and phishing websites automatically. The kill switch protects your identity if the connection drops. Multi-device support keeps all your gadgets safe. You can switch servers manually for better speed. No logs are ever stored, ensuring full anonymity. 24/7 customer support helps with any security concern. SafeNet is your shield against online threats.",
+    "size": 130,
+    "reviews": 1950,
+    "ratingAvg": 4.6,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 1220 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?10",
+    "title": "Weatherly",
+    "companyName": "SkyView Labs",
+    "id": 10,
+    "description": "Weatherly delivers hyper-accurate forecasts anywhere on Earth. It shows real-time weather conditions with radar visuals. 7-day and hourly forecasts help plan your week easily. Severe weather alerts keep you safe during storms. The app uses satellite imagery for global accuracy. Custom themes and widgets enhance your home screen. You can save favorite locations for instant updates. Rain probability and air quality data are also displayed. Supports voice command for hands-free weather checking. Weatherly combines science and simplicity beautifully.",
+    "size": 70,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 390 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?11",
+    "title": "MindEase",
+    "companyName": "ZenApps",
+    "id": 11,
+    "description": "MindEase helps you relax, meditate, and reduce stress daily. It includes guided meditations for sleep and focus. Breathing exercises help control anxiety and calm your mind. The app tracks your emotional state and offers insights. Ambient sounds like rain and ocean waves enhance peace. AI mood tracker adjusts meditation plans automatically. Daily reminders encourage mindfulness practice. Offline mode lets you meditate anywhere. Beautiful animations create a soothing environment. MindEase turns mental wellness into a simple daily habit.",
+    "size": 95,
+    "reviews": 1750,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?12",
+    "title": "FinanceFlow",
+    "companyName": "MoneyWise",
+    "id": 12,
+    "description": "FinanceFlow is your intelligent financial management app. It automatically tracks expenses and income securely. The dashboard gives a clear picture of your finances. You can set monthly budgets and receive alerts. Graphs and charts visualize your spending habits. AI suggests saving goals based on your lifestyle. Syncs with your bank accounts for real-time updates. Export reports in PDF or Excel format easily. Secure encryption ensures your privacy at all times. FinanceFlow makes money management effortless and smart.",
+    "size": 88,
+    "reviews": 1320,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 740 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?13",
+    "title": "ChatFlow",
+    "companyName": "ComTech",
+    "id": 13,
+    "description": "ChatFlow is an AI-powered chat assistant for productivity. It automates messages and responses across multiple platforms. You can connect Gmail, Slack, and social apps in one hub. Smart templates speed up your communication workflow. The bot learns your style and replies naturally. Schedule messages to send automatically later. Real-time translation helps connect with global clients. Integrate it with your CRM for sales automation. The analytics panel tracks performance and engagement. ChatFlow is your 24/7 digital communication partner.",
+    "size": 77,
+    "reviews": 1900,
+    "ratingAvg": 4.9,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?14",
+    "title": "GameBoost",
+    "companyName": "PlayForge",
+    "id": 14,
+    "description": "GameBoost enhances your device performance for gaming. It optimizes CPU, RAM, and network speed in real-time. Cleans junk files automatically before each play session. Blocks background apps to free up system resources. Built-in FPS counter monitors performance accurately. Supports both mobile and PC platforms seamlessly. You can create game-specific optimization profiles. One-tap boost instantly improves frame rates. Minimal design with dark mode for gamers’ comfort. GameBoost guarantees smoother and faster gameplay every time.",
+    "size": 120,
+    "reviews": 850,
+    "ratingAvg": 4.2,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 230 },
+      { "name": "5 star", "count": 340 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?15",
+    "title": "TravelMate",
+    "companyName": "GlobeGo",
+    "id": 15,
+    "description": "TravelMate helps you plan perfect trips anywhere in the world. It suggests destinations based on budget and interests. You can book hotels, flights, and tours within the app. AI itinerary builder creates day-by-day travel plans. Offline maps ensure you never get lost abroad. Travel diary feature lets you record memories easily. Currency converter and translator are built-in. Safety tips and local info guide new travelers. Sync your plans with friends and family instantly. TravelMate turns wanderlust into well-organized adventures.",
+    "size": 102,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?16",
+    "title": "DocuScan",
+    "companyName": "Scanly",
+    "id": 16,
+    "description": "DocuScan turns your smartphone into a portable scanner. It captures high-quality scans of paper documents instantly. Auto-cropping and edge detection ensure perfect alignment. OCR technology extracts text from images for editing. You can export scans in PDF, DOCX, or JPG formats. Sync files securely with cloud storage services. Batch scanning saves time for bulk documents. Password protection ensures privacy of sensitive files. The app also removes shadows and improves readability. DocuScan is the ultimate companion for digital organization.",
+    "size": 68,
+    "reviews": 890,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 440 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?17",
+    "title": "RecipeBook",
+    "companyName": "KitchenPro",
+    "id": 17,
+    "description": "RecipeBook offers thousands of curated recipes from global cuisines. You can search by ingredient, cuisine, or dietary preference. Step-by-step instructions ensure perfect results every time. Add your own recipes and share them with others. Built-in timer helps track cooking durations. AI suggests meal plans based on nutrition goals. Offline mode stores recipes locally for travel use. Nutrition info is displayed for every meal. Integration with smart kitchen devices enhances automation. RecipeBook makes cooking smarter, faster, and more fun.",
+    "size": 94,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?18",
+    "title": "StockWatch",
+    "companyName": "FinTrackers",
+    "id": 18,
+    "description": "StockWatch keeps you updated with real-time market data. Track your favorite stocks, ETFs, and crypto assets. AI alerts you of major market shifts instantly. Detailed charts show price history and technical indicators. Create custom watchlists for easy tracking. News aggregation provides insights from trusted sources. Integration with brokers allows one-click trading. Dark mode improves viewing comfort during night trading. Historical analysis tools aid investment strategy building. StockWatch empowers investors with precision and clarity.",
+    "size": 90,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 670 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?19",
+    "title": "PetCare",
+    "companyName": "PawWorld",
+    "id": 19,
+    "description": "PetCare is the all-in-one app for pet owners worldwide. Track your pet’s health records and vaccination schedules. Set reminders for vet visits and medication. Access expert advice on diet and training. Connect with nearby vets and pet stores easily. The community forum allows pet lovers to share experiences. Upload cute photos of your pets to your profile. AI identifies dog or cat breeds using the camera. Lost pet alerts help reunite pets with their owners. PetCare ensures every pet receives the care they deserve.",
+    "size": 84,
+    "reviews": 760,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 290 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?20",
+    "title": "HomeSync",
+    "companyName": "SmartNest",
+    "id": 20,
+    "description": "HomeSync connects all your smart home devices in one hub. Control lights, thermostats, and cameras with simple voice commands. Automate daily routines like morning lights or night security. AI learns your habits and optimizes energy consumption. Real-time alerts keep your home secure even when away. Supports Alexa, Google Home, and Apple HomeKit. Remote access allows control from anywhere. Energy reports show detailed usage statistics. Easy setup with step-by-step device pairing. HomeSync turns your home into a truly smart ecosystem.",
+    "size": 140,
+    "reviews": 1580,
+    "ratingAvg": 4.8,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 1030 }
+    ]
+  }
+]
