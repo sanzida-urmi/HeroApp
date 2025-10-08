@@ -9,8 +9,17 @@ import Data from '../Component/Data';
 
 const Home = () => {
         const {data, loading, error} = useData();
-            const featuredata = data.slice(0,6)
+            const featuredata = data.slice(0,8)
 // console.log(featuredata);
+
+if(loading){
+    return {
+        <div>
+        kjhuujkjn,,kkkkkkkkkkk
+        </div>
+
+    }
+}
 
     return (
         <div className='space-y-6'>
@@ -68,7 +77,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mx-auto  pl-20'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mx-auto  pl-20'>
                 {
                 featuredata.map(d => (
                     <Data d={d} key={d.id}></Data>
@@ -76,7 +85,7 @@ const Home = () => {
             }
             </div>
 
-            <div className='text-center mb-12'>
+            <div className='text-center mb-12 mt-15'>
                 <NavLink to='/app' className='px-4 py-2 bg-purple-500 rounded' >Show All</NavLink>
             </div>
 
