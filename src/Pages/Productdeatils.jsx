@@ -6,6 +6,8 @@ import rating from '../assets/rating.png';
 import review from '../assets/review.png';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { toast } from 'react-toastify';
+import { updatelocal } from '../Utils/Localstorage';
+import logo from '../assets/logo.png';
 
 
 
@@ -15,6 +17,8 @@ const Productdeatils = () => {
     const {data, loading, error} = useData();
     const [install, setInstall] = useState(false);
 
+    const app = data.find(p=> String(p.id) ===id)
+
     const handleinstall = ()=>{
         setInstall(true);
         toast.success('Installed successfully');
@@ -22,7 +26,14 @@ const Productdeatils = () => {
 
     const product = data.find(p=> String(p.id) === id)
 
-    if(loading) return <p>loading....</p>
+     if(loading){
+            return (
+                <div className='flex justify-center items-center h-screen'>
+                    <img className='animate-spin h-50 w-50' src={logo} alt="" />
+                </div>
+        
+            )
+        }
 
     const {image, title,companyName,description,reviews,ratingAvg,downloads,size,ratings} = product
 
@@ -65,7 +76,10 @@ const Productdeatils = () => {
     <div className="card-actions ">
       <button
       disabled={install}
-      onClick={handleinstall}
+      onClick={()=>{
+        handleinstall();
+        updatelocal(app);
+      }}
       className="btn bg-green-400">{install? 'Installed' :`Install Now ({size} MB)`}</button>
     </div>
   </div>
