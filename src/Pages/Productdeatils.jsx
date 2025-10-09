@@ -80,7 +80,7 @@ const Productdeatils = () => {
         handleinstall();
         updatelocal(app);
       }}
-      className="btn bg-green-400">{install? 'Installed' :`Install Now ({size} MB)`}</button>
+      className="btn bg-green-400">{install? 'Installed' :`Install Now (${size} MB)`}</button>
     </div>
   </div>
 </div>

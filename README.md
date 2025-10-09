@@ -1,16 +1,29 @@
-# React + Vite
+# 📱 AppStore Clone (React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🧾 Description
+This project is a **React-based App Store Clone** where users can view detailed information about different applications, including their downloads, ratings, and reviews.  
+Users can also install an app, which will be saved in **localStorage**, so installed apps remain stored even after reloading the page.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- View list of apps with details  
+- See total downloads, reviews, and average ratings  
+- Install button with toast notification  
+- Save installed apps using `localStorage`  
+- Dynamic app details page using React Router  
+- Interactive rating chart using **Recharts**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Technologies Used
+- ⚛️ **React.js** – Frontend framework  
+- 🧭 **React Router** – For routing  
+- 💾 **LocalStorage API** – To save installed apps  
+- 📊 **Recharts** – For data visualization (rating bar chart)  
+- 🎨 **Tailwind CSS & DaisyUI** – For styling  
+- 🔔 **React Toastify** – For success notifications  
+- 🛠️ **Vite** – Fast development and build tool
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 How It Works
+1. The user clicks the **Install** button.  
+2. The app data is passed to `updatelocal()` which saves it to `localStorage`.  
+3. The button becomes disabled showing **Installed**.  
+4. A success toast message appears. 

@@ -12,6 +12,7 @@ const Data = ({d}) => {
     // }
 
     const {title, image, ratingAvg,downloads,id} = d
+    const download =downloads/1000000;
     return (
         
         <div className="card bg-base-100 w-80 shadow-2xl pt-15 hover:scale-105 transition ease-in-out">
@@ -26,7 +27,7 @@ const Data = ({d}) => {
     <div className="card-actions justify-between">
       <div className="badge badge-outline">
         <img className='h-4' src={down} alt="" />
-        {downloads}M</div>
+        {download}M</div>
       <div className="badge badge-outline">
         <img className='h-4' src={rating} alt="" />
         {ratingAvg}</div>

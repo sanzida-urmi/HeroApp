@@ -52,7 +52,7 @@ const App = () => {
             {searchproducts.length === 0 ?
             (
                 <div>
-                    <p className='text-4xl font-bold text-center'>Not found</p>
+                    <p className='text-4xl font-bold text-center'>No App found</p>
                      <div className='text-center mb-12 mt-15'>
                 <NavLink to='/app' onClick={handleshow} className='px-6 py-4 bg-gray-500 rounded' >Show All Apps</NavLink>
             </div>

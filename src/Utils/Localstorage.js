@@ -25,3 +25,14 @@ export const updatelocal =(app)=>{
         console.log(err)
     }
 }
+
+export const remove = id =>{
+    const list= getlocal();
+    try{
+        const updatelist = list.filter(p=> p.id !== id)
+        localStorage.setItem('install', JSON.stringify(updatelist))
+    }
+    catch(err){
+        console.log(err);
+    }
+}

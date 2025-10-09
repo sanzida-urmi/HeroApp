@@ -42,7 +42,7 @@ if(loading){
                         <img src={app} alt="" />
                     </div>
                     <div className='font-semibold text-xl'>
-                        Google Play
+                        App Store
                     </div>
                 </a>
             </div>
