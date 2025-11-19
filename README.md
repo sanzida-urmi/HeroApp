@@ -12,6 +12,10 @@ A fully functional React-based App Store Clone that allows users to browse appli
 - 📈 Interactive rating visualization using Recharts
 - 🎨 Responsive and modern UI with Tailwind CSS & DaisyUI
 
+## Demo
+
+Live URL : https://wondrous-gingersnap-0db79d.netlify.app
+
 ### Homepage Dashboard
 ![AppStore  Dashboard](https://i.ibb.co/HLMVJsPv/Screenshot-2025-11-19-104526.png)
 
